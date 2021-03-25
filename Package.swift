@@ -5,7 +5,7 @@ let package = Package(
     name: "HGPlaceholders",
     defaultLocalization: "en",
     platforms: [
-        .iOS("8.0")
+        .iOS("9.0")
     ],
     products: [
         .library(name: "HGPlaceholders", targets: ["HGPlaceholders"])
