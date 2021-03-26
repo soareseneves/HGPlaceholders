@@ -6,6 +6,7 @@
 //
 //
 
+import UIKit
 import Foundation
 
 /// This class is responsible for implementing the `UITableViewDataSource` and `UITableViewDelegate` protocols.
